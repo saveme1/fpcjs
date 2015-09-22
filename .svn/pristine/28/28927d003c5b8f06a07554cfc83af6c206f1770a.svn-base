@@ -1,0 +1,12 @@
+object qrlAlpha1: TQRLabel
+  Left = 336
+  Top = 264
+end
+object qrlBeta1: TQRLabel
+  Left = 336
+  Top = 264
+end
+object qrlGama1: TQRLabel
+  Left = 336
+  Top = 264
+end
